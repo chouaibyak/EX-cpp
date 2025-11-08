@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1762253579 source:c:\users\admin\onedrive\bureau\codeblocks\td2_c++\src\employe.cpp
+	"Employe.h"
+	<string>
+	<iostream>
+
+1762253457 c:\users\admin\onedrive\bureau\codeblocks\td2_c++\include\employe.h
+	<string>
+	<iostream>
+
+1762253729 source:c:\users\admin\onedrive\bureau\codeblocks\td2_c++\main.cpp
+	<iostream>
+	<fstream>
+	"Employe.h"
+	"Personnel.h"
+
+1762253427 c:\users\admin\onedrive\bureau\codeblocks\td2_c++\include\personnel.h
+	"Employe.h"
+	<iostream>
+	<string>
+	<fstream>
+	<vector>
+

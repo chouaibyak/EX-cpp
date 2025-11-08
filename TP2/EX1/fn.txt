@@ -1,0 +1,6 @@
+V Business Pierre 55 1960 30000
+R Vendtout Leon 60 1980 20000
+P Bosseur Yves 61 1975 1000
+M Stocketout Jeanne 45 1970 120
+A Flippe Jean 21 1975 1000 200
+N Abordage Alain 30 1970 45 120

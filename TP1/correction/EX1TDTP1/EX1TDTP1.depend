@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1637853238 source:c:\users\admin\documents\cpp\ex1tdtp1\main.cpp
+	<iostream>
+	"Etudiant.h"
+
+1637852427 c:\users\admin\documents\cpp\ex1tdtp1\include\etudiant.h
+	<iostream>
+
+1637852436 source:c:\users\admin\documents\cpp\ex1tdtp1\src\etudiant.cpp
+	"Etudiant.h"
+
+1637853983 source:c:\users\admin\documents\cpp\ex1tdtp1\src\etudiantlicence.cpp
+	"Etudiant.h"
+	"EtudiantLicence.h"
+
+1637853750 c:\users\admin\documents\cpp\ex1tdtp1\include\etudiantlicence.h
+	<Etudiant.h>
+
