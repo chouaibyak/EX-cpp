@@ -107,7 +107,7 @@ float Etudiant::moyenne(){
 }
 
 int Etudiant::admis(){
-    if(Etudiant::moyenne()<10){
+    if(moyenne()<10){
         return 0;
     }
     else{
