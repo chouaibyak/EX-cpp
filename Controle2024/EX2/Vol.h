@@ -15,6 +15,7 @@ public:
     Vol(string, string, string, int, int);
     bool estDisponible() const;
     void afficher() const;
+    int getNumero();
 };
 
 #endif

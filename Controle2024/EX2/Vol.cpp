@@ -10,6 +10,9 @@ Vol::Vol(string n, string d, string date, int ns, int nt){
     nmbrSieges = ns;
     nmbrTotalSieges = nt;
 }
+int Vol::getNmbrTitalSieges(){
+    return nmbrTotalSieges;
+}
 bool Vol::estDisponible() const{
     if(nmbrTotalSieges>nmbrSieges){
         return true;
