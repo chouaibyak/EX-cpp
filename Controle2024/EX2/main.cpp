@@ -9,7 +9,6 @@ int main(){
 
     PassagerEconomique p1("Ali", "P123");
     PassagerBusiness p2("Sara", "P456");
-    PassagerPremiere p3("Omar", "P789");
 
     Reservation r;
     r.calculerPrix(p1);
