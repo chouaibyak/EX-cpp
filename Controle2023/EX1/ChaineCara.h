@@ -23,6 +23,8 @@ public:
     ChaineCara operator+(const ChaineCara &ch); //concatenation
     char& operator[](int i); //lecture/ecriture
     const char& operator[](int i) const; //lecture seulment
+    // & → je renvoie le même objet (référence).
+    //sans & → je renvoie une copie (nouvel objet).
 };
 
  #endif
